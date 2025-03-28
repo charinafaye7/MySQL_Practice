@@ -7,7 +7,7 @@ For more information about the Sakila database refer to this link: https://dev.m
 
 ## EXERCISES
 
-[Exercise 1: Top 5 customers and their amount of rentals.] https://github.com/charinafaye7/MySQL_Practice/blob/main/Top_Customers%20_Rentals.sql)
+[Exercise 1: Top 5 customers and their amount of rentals.] (https://github.com/charinafaye7/MySQL_Practice/blob/main/Top_Customers%20_Rentals.sql)
 
 Exercise 2: Using the address table, select each district and a count of how many addresses are in each district. 
 
