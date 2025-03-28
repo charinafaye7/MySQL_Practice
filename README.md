@@ -10,7 +10,7 @@ For more information about the Sakila database refer to this link: https://dev.m
 
 [2. Amount of addresses in each district](https://github.com/charinafaye7/MySQL_Practice/blob/main/2.%20Amount_of_Addresses.sql)
 
-Exercise 3: Select the title, rental_rate, and replacement_cost from the film table. Find the films that have a rental_rate less than a dollar or a replacement_cost les than 15 dollars.
+[2. Find films that are less than a dollar or replacement cost is less than $15 ](https://github.com/charinafaye7/MySQL_Practice/blob/main/3.%20Find_Specific_Films.sql)
 
 Exercise 4: Find the sum of the total amount spent by each customer from the payment table. Only select the customers that have sum of $150. Display the customer_id and the sum total as 'total amount spent'.
 
