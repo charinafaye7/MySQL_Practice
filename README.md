@@ -6,7 +6,7 @@ The Sakila database is a sample database provided by MySQL. The database provide
 For more information about the Sakila database refer to this link: https://dev.mysql.com/doc/sakila/en/ 
 
 ## EXERCISES
-[Exercise 1: Top 5 customers and their amount of rentals](https://github.com/charinafaye7/MySQL_Practice/blob/main/Top_Customers%20_Rentals.sql)
+[1. Top 5 customers and their amount of rentals](https://github.com/charinafaye7/MySQL_Practice/blob/main/Top_Customers%20_Rentals.sql)
 
 [2. Amount of addresses in each district](https://github.com/charinafaye7/MySQL_Practice/blob/main/2.%20Amount_of_Addresses.sql)
 
