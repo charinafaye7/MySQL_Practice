@@ -1,6 +1,6 @@
 /* Exercise 1: 
-		The rental table tracks each film rental by a customer. Return the customer_id and the amount of  
-		rentals for that customer. Only select the top 5 customers with the highest rentals amounts.
+	The rental table tracks each film rental by a customer. Return the customer_id and the amount of  
+	rentals for that customer. Only select the top 5 customers with the highest rentals amounts.
 */
 
 SELECT customer_id, COUNT(customer_id) AS 'rentals'
