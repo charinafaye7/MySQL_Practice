@@ -8,7 +8,7 @@ For more information about the Sakila database refer to this link: https://dev.m
 ## EXERCISES
 [Exercise 1: Top 5 customers and their amount of rentals](https://github.com/charinafaye7/MySQL_Practice/blob/main/Top_Customers%20_Rentals.sql)
 
-Exercise 2: Using the address table, return how many addresses are in each district. 
+[2. Amount of addresses in each district](https://github.com/charinafaye7/MySQL_Practice/blob/main/2.%20Amount_of_Addresses.sql)
 
 Exercise 3: Select the title, rental_rate, and replacement_cost from the film table. Find the films that have a rental_rate less than a dollar or a replacement_cost les than 15 dollars.
 
